@@ -6,6 +6,8 @@
 
 A MVP chat room application built to test using Socket.io! 
 
+![Demo](JKChatApp1/chatDemo.gif)
+
 
 ## Getting Started
 
